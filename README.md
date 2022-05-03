@@ -4,7 +4,7 @@ I solely am providing this toolset because Xilinx seems to have crashed the link
 
 More info on that in a post in the [Xilinx Community Forum](https://support.xilinx.com/s/question/0D52E000072B3ZJSA0/where-is-the-dnndk-download-located?language=en_US).
 
-The DNNDK 3.1 can be found [here](https://www.xilinx.com/member/forms/download/xef.html?filename=xilinx_dnndk_v3.1_190809.tar.gz)
+The DNNDK 3.1 can be found [here](https://www.xilinx.com/member/forms/download/xef.html?filename=xilinx_dnndk_v3.1_190809.tar.gz).
 
 **Disclaimer:** I am not resposible for any damage or problems caused by using this. 
 
