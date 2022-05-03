@@ -1,0 +1,1 @@
+../Petalinux_sdk.sh
